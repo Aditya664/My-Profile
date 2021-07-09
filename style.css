@@ -25,11 +25,9 @@ p{
 .brand-name ,.navbar-light .navbar-brand{
       /* font-family: "Brush Script MT"; */
       /* margin-bottom: 3px; */
-      font-family: "Lobster";
-      font-size: 30px;
-      font-weight: bold;
-background: linear-gradient(to right, #FFF 20%, #FF0 40%, #FF0 60%, #FFF 80%);
-  background-size: 200% auto;
+   
+     background: linear-gradient(to right, #FFF 20%, #FF0 40%, #FF0 60%, #FFF 80%);
+      background-size: 200% auto;
   
   color: #000;
   background-clip: text;
@@ -43,7 +41,7 @@ background: linear-gradient(to right, #FFF 20%, #FF0 40%, #FF0 60%, #FFF 80%);
       background-position: 200% center;
     }
   }
-}
+
 
 
 
