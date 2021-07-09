@@ -28,7 +28,6 @@ p{
       font-family: "Lobster";
       font-size: 30px;
       font-weight: bold;
-
 background: linear-gradient(to right, #FFF 20%, #FF0 40%, #FF0 60%, #FFF 80%);
   background-size: 200% auto;
   
@@ -45,7 +44,7 @@ background: linear-gradient(to right, #FFF 20%, #FF0 40%, #FF0 60%, #FFF 80%);
     }
   }
 }
-  }
+
 
 
   .headerachor {
